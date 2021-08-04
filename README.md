@@ -8,8 +8,9 @@
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=waroach&layout=compact&theme=omni&hide_border=true' alt='https://github.com/waroach/github-readme-stats'/>
 
-- 🔭 I’m currently working on #100DaysOfCode
-- 🌱 I’m currently learning React & Kotlin
+- 🔭 I am a full-stack software engineer at #100Devs. My primary focus is to build full-stack web applications using HTML, CSS, Javascript, React, Node.js, and MongoDB.
+- 🌱 Through freelancing, I help empower businesses in my community who lack an online presence and technological expertise.
+- :blue_heart: #AutismAwareness
 <!--
 **Waroach/Waroach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
