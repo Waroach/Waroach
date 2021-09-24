@@ -12,7 +12,10 @@
 - 🌱 Through freelancing, I help empower businesses in my community who lack an online presence and technological expertise.
 - :blue_heart: #AutismAwareness
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+
+
 <!--
 **Waroach/Waroach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
