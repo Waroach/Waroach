@@ -12,7 +12,7 @@
 - 🌱 Through freelancing, I help empower businesses in my community who lack an online presence and technological expertise.
 - :blue_heart: #AutismAwareness
 
-
+![This is my Octocat](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
 
