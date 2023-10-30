@@ -8,7 +8,7 @@
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=waroach&layout=compact&theme=omni&hide_border=true' alt='https://github.com/waroach/github-readme-stats'/>
 
-- 🔭 I am a full-stack software engineer at OTAinsight/Kriya Revgen. My primary focus is to build full-stack web applications using HTML, CSS, Javascript, React, Node.js, and MongoDB.
+- 🔭 I am a full-stack software engineer at OTAinsight/Kriya Revgen. My primary focus is to build full-stack web applications using HTML, CSS, Elm, Javascript, Elixir.
 - 🌱 Through freelancing, I help empower businesses in my community who lack an online presence and technological expertise.
 - :blue_heart: #AutismAwareness
 
